@@ -7,3 +7,16 @@ var  isActive = false;
 console.log(employeeName, typeof (employeeName))
 console.log(employeeID, typeof (employeeID))
 console.log(isActive, typeof (isActive))
+
+
+
+// Task 2: Compound Data Types
+
+let products = ["Keyboard", "Mouse", "Charger"]
+const productdetails = {
+    name: "Keyboard",
+     price: 30,
+      inStock = true}
+
+      console.log(products, productdetails);
+
